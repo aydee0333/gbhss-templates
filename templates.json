@@ -1,0 +1,180 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-01-15",
+  "templates": [
+    {
+      "id": "monthly_toppers_english",
+      "name": "Monthly Test Toppers",
+      "type": "monthly_toppers",
+      "language": "english",
+      "icon": "trophy",
+      "description": "Monthly test result toppers with podium layout",
+      "required_fields": [
+        {
+          "key": "teacher_name",
+          "label": "Teacher Name",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "subject",
+          "label": "Subject",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "month_year",
+          "label": "Month and Year",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "class_grade",
+          "label": "Class or Grade",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "total_marks",
+          "label": "Total Marks",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_1_name",
+          "label": "1st Place Student Name",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_1_class",
+          "label": "1st Place Student Class",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_1_marks",
+          "label": "1st Place Marks Obtained",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_2_name",
+          "label": "2nd Place Student Name",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_2_class",
+          "label": "2nd Place Student Class",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_2_marks",
+          "label": "2nd Place Marks Obtained",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_3_name",
+          "label": "3rd Place Student Name",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_3_class",
+          "label": "3rd Place Student Class",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_3_marks",
+          "label": "3rd Place Marks Obtained",
+          "type": "text",
+          "optional": false
+        },
+        {
+          "key": "student_4_name",
+          "label": "4th Place Student Name",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_4_class",
+          "label": "4th Place Student Class",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_4_marks",
+          "label": "4th Place Marks Obtained",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_5_name",
+          "label": "5th Place Student Name",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_5_class",
+          "label": "5th Place Student Class",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_5_marks",
+          "label": "5th Place Marks Obtained",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_6_name",
+          "label": "6th Place Student Name",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_6_class",
+          "label": "6th Place Student Class",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_6_marks",
+          "label": "6th Place Marks Obtained",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_7_name",
+          "label": "7th Place Student Name",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_7_class",
+          "label": "7th Place Student Class",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "student_7_marks",
+          "label": "7th Place Marks Obtained",
+          "type": "text",
+          "optional": true
+        },
+        {
+          "key": "quote",
+          "label": "Inspirational Quote",
+          "type": "text",
+          "optional": true,
+          "default": "Hard work beats talent when talent does not work hard"
+        }
+      ],
+      "html_template": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Monthly Test Toppers</title><link href='https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap' rel='stylesheet'><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css'><style>PASTE_YOUR_CSS_HERE</style></head><body>PASTE_YOUR_HTML_BODY_HERE</body></html>"
+    }
+  ]
+}
