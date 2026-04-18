@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2025-01-15",
+  "version": "1.0.1",
+  "last_updated": "2026-04-18",
   "templates": [
     {
-      "id": "monthly_toppers_english",
+      "id": "monthly_toppers_sindhi",
       "name": "Monthly Test Toppers",
       "type": "monthly_toppers",
-      "language": "english",
+      "language": "sindhi",
       "icon": "trophy",
       "description": "Monthly test result toppers with podium layout",
       "required_fields": [
